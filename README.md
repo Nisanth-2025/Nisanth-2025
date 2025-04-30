@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a first-year B.Tech student specializing in Computer Science and Engineering (CSE), with a strong passion for programming and technology. Currently, I serve as a Tech support member at Google Developer Groups (GDG), where I actively contribute to the community by assisting with technical issues and providing solutions to enhance the user experience. My programming skills and eagerness to learn new technologies enable me to tackle complex challenges and offer effective support in dynamic environments. I am committed to growing my expertise in software development and technology, and I am always looking for opportunities to collaborate, learn, and make an impact in the tech world.
+I am a first-year B.Tech student specializing in Computer Science and Engineering (CSE), with a strong passion for programming and technology. My programming skills and eagerness to learn new technologies enable me to tackle complex challenges and offer effective support in dynamic environments. I am committed to growing my expertise in software development and technology, and I am always looking for opportunities to collaborate, learn, and make an impact in the tech world.
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nisanth-s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nisanth252025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisanth-s-835b58318/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisanth-s-835b58318/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NisanthS677130)
 
 
